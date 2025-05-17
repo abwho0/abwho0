@@ -19,7 +19,7 @@ From Pakistan 🇵🇰 Based in Kuwait 🇰🇼 Industrial Engineering from Turk
 > ⚡ I'm passionate about how **Data Analytics is exploding with potential**, and I’m all in to ride the wave. The market's projected growth is nothing short of ballistic, and I aim to be at the forefront of this revolution — building tools, solving problems, and enabling businesses.
 
 <p align="center">
-  <img src="https://github.com/abwho0/abdullahajmal/blob/main/data_analytics_market_growth.gif" alt="Data Analytics Growth Animation" width="600"/>
+  <img src="https://github.com/abwho0/abwho0/blob/main/data_analytics_market_growth.gif" alt="Data Analytics Growth Animation" width="600"/>
 </p>
 
 ---
