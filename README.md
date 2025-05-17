@@ -2,7 +2,8 @@
 <p align="center">
   <em> Analytics Engineer | BI Engineer | Industrial Engineer</em><br/>
   <a href="https://linkedin.com/in/abdullahajmalkwt">LinkedIn</a> • 
-  <a href="https://github.com/abwho0">GitHub</a>
+  <a href="https://github.com/abwho0">GitHub</a> • 
+  <a href="https://github.com/abwho](https://www.youtube.com/@abdullahajmalkwt">YouTube</a>
 </p>
 
 ---
