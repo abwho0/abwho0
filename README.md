@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Hub in Git World, I'm Abdullah</h1>
+<h1 align="center">Welcome to my Hub in Git World, I'm Abdullah, A Business Process Optimizing Analyst</h1>
 <p align="center">
   <em> Analytics Engineer | BI Engineer | Industrial Engineer</em><br/>
   <a href="https://linkedin.com/in/abdullahajmalkwt">LinkedIn</a> • 
